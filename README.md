@@ -24,3 +24,8 @@ Font Awesome
 # Contact
 If you have any questions about the website, please feel free to contact me at [koechemmanuel2002@gmail.com]
 
+# Important 
+This website was taken as a reference and solely for non-profit educational purposes for a school, as a personal project, modifying some things, the code is completely free if used for EDUCATIONAL purposes, otherwise the copyright would be skipped
+
+All rights reserved.
+by Josh Valiente 
